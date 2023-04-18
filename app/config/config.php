@@ -364,4 +364,4 @@ if (file_exists(FCPATH . APPPATH . 'config/mso_config.php'))
 	require(FCPATH . APPPATH . 'config/mso_config.php');
 	
 /* End of file config.php */
-/* Location: ./application/config/config.php */
+/* Location: ./app/config/config.php */
